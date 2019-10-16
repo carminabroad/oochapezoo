@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aixaeguiy.distractedengineer.com/sitemap.xml
